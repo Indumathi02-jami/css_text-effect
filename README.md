@@ -2,22 +2,12 @@
 
 A simple and visually striking text animation effect using CSS, featuring a multi-color gradient that continuously shifts across the text. Perfect for adding dynamic, eye-catching typography to your projects.
 
-## Preview
-
-![Text Animation](https://your-image-url.com)  
-*(Replace with an actual preview image link if you have one.)*
-
 ## Features
 
 - **Dynamic Gradient**: The text features a gradient animation that shifts smoothly across multiple colors.
 - **Customizable Font**: Easily modify the font style, size, and weight for your needs.
 - **Cross-browser Support**: Uses standard CSS properties to ensure compatibility across modern browsers.
 - **Infinite Animation**: The gradient shift runs indefinitely with a smooth transition.
-
-## Demo
-
-You can see a live demo of the effect on [this link](#).  
-*(Replace with an actual link to your live demo, if available.)*
 
 ## Installation
 
